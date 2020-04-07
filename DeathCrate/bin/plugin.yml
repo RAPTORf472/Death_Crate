@@ -1,0 +1,11 @@
+name: DeathCrate
+main: me.raptor.main.DeathCrate
+author: RAPTOR
+version: 1.0
+description: An death crate plugin
+api-version: 1.13
+
+commands:
+  deathcrate:
+   usage: /<command>
+   aliases: [dc]
